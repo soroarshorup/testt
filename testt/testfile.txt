@@ -1,14 +1,1 @@
-this is a test file one 
-this is the ok
-line three
-this is the line four
-line five
-<<<<<<< HEAD
-line seven
-
-=======
-line six
->>>>>>> 240ed58a07acd35bf2aaa520ee11b37e5dbcbce1
-
-
-line nine
+line one
