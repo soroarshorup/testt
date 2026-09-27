@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 this is a test file one 
+=======
+this is a test file 
+this is the ok
+>>>>>>> a93c1384fab331282bf9299ccd7980a42588e1f2
